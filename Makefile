@@ -9,5 +9,5 @@ main.o:  sum.h main.cpp
 sum.o: sum.h sum.cpp
 
 clean:
-    rm -f sumtest
+    rm -f sumtest       
     rm -f *.o
